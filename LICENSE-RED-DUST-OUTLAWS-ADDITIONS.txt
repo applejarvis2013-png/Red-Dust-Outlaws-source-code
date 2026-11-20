@@ -1,0 +1,26 @@
+RED DUST: OUTLAWS - ORIGINAL CONTRIBUTIONS LICENSE
+
+Copyright (c) 2026 Jarvis Technologies. All rights reserved.
+
+SCOPE
+
+This notice applies only to original material created specifically for Red
+Dust: Outlaws by or for Jarvis Technologies, and only to the extent that
+Jarvis Technologies owns the material ("Original Contributions").
+
+All rights in the Original Contributions are reserved. No permission is
+granted to reproduce, modify, distribute, publicly display, or create
+derivative works from the Original Contributions without prior written
+permission from Jarvis Technologies, except where applicable law permits it.
+
+EXCLUDED MATERIAL
+
+This notice does not cover Smokin' Guns, Quake III Arena, id Software, or
+other upstream or third-party code, artwork, maps, sounds, fonts, tools, or
+other material. Those components remain subject to their own copyright
+notices and licenses.
+
+This notice is supplemental. It does not replace, override, or relicense
+the existing LICENSE.txt, any third-party license, or any per-file notice.
+For combined or derivative files, this notice applies only to separable
+Original Contributions and does not claim rights in the underlying material.
